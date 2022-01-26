@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VortexPEDevTeam
+- 👀 I’m the owner a server development team
+- 🌱 I’m currently learning javascript and mc servers
+- 💞️ I’m looking to collaborate on mc coders
